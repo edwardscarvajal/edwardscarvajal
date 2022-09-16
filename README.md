@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @edwardscarvajal
+- 👀 I’m interested in A.I, Machine Learning, Data Science...
+- 🌱 I’m currently learning frontend web development.
+- 📫 Reach me: https://www.linkedin.com/in/edwards-carvajal-453825122/
